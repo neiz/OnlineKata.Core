@@ -1,0 +1,9 @@
+C:\Sites\onlineKata\MongoDB.Web\obj\Debug\MongoDB.Web.csprojResolveAssemblyReference.cache
+C:\Sites\onlineKata\MongoDB.Web\bin\Debug\MongoDB.Web.dll
+C:\Sites\onlineKata\MongoDB.Web\bin\Debug\MongoDB.Web.pdb
+C:\Sites\onlineKata\MongoDB.Web\bin\Debug\MongoDB.Bson.pdb
+C:\Sites\onlineKata\MongoDB.Web\bin\Debug\MongoDB.Bson.xml
+C:\Sites\onlineKata\MongoDB.Web\bin\Debug\MongoDB.Driver.pdb
+C:\Sites\onlineKata\MongoDB.Web\bin\Debug\MongoDB.Driver.xml
+C:\Sites\onlineKata\MongoDB.Web\obj\Debug\MongoDB.Web.dll
+C:\Sites\onlineKata\MongoDB.Web\obj\Debug\MongoDB.Web.pdb
